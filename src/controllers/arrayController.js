@@ -54,9 +54,9 @@ class ArrayController {
         // Prepare response
         return res.status(200).json({
             is_success: true,
-            user_id: "john_doe_17091999",
-            email: "john@xyz.com",
-            roll_number: "ABCD123",
+            user_id: "Pulkit_Loyalka_04122003",
+            email: "loyalkapulkit@gmail.com",
+            roll_number: "22BCE0024",
             odd_numbers,
             even_numbers,
             alphabets,
