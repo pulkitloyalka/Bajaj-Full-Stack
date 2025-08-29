@@ -1,0 +1,14 @@
+{
+  "name": "array-processor-api",
+  "version": "1.0.0",
+  "description": "A REST API that processes an array and returns various data including even and odd numbers, alphabets, and special characters.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
